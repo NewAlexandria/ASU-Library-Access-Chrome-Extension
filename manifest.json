@@ -1,5 +1,6 @@
 {
   "name": "ASU Library Journal Easy-Access",
+  "short_name": "asulibaccess",
   "description": "Click the icon to view a journal article through the university library access system",
   "version": "0.1",
   "background": {
